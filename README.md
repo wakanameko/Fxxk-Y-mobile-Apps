@@ -4,7 +4,7 @@ Y!mobileのいらないアプリをADBコマンドを使って消し去るソフ
 
 ## 削除可能なアプリ一覧
 |アプリ名|パッケージ名|
-|:--||:--|
+|:--|:--|
 |ヤフオク!|jp.co.yahoo.android.YAuctionPad|
 |Yahoo!|jp.co.yahoo.android.yjtop|
 |My Y!mobile|jp.ymobile.android.myymobile|
@@ -13,7 +13,6 @@ Y!mobileのいらないアプリをADBコマンドを使って消し去るソフ
 |Y!mobile メール|jp.co.yahoo.android.ymobile.mail|
 |Enjoyパック|jp.co.yahoo.android.premiumwebclick|
 |Y!カーナビ|jp.co.yahoo.android.apps.navi|
-||
 
 
 ## 動作確認環境
